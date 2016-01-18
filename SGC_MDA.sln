@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mda", "mda\mda.csproj", "{51BDCD61-EE3D-4139-B961-093C2D856505}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB07EDB5-581F-47CB-BE2F-88BE81B8A98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51BDCD61-EE3D-4139-B961-093C2D856505}.Debug|x86.ActiveCfg = Debug|x86
+		{51BDCD61-EE3D-4139-B961-093C2D856505}.Debug|x86.Build.0 = Debug|x86
+		{51BDCD61-EE3D-4139-B961-093C2D856505}.Release|x86.ActiveCfg = Release|x86
+		{51BDCD61-EE3D-4139-B961-093C2D856505}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

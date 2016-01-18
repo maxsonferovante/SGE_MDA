@@ -1,0 +1,13 @@
+c:\users\maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.Properties.Resources.resources
+c:\users\maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.csproj.GenerateResource.Cache
+c:\users\maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\bin\Debug\mda.exe
+c:\users\maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\bin\Debug\mda.pdb
+c:\users\maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.exe
+c:\users\maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.pdb
+C:\Users\Maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.TelaPrincipal.resources
+C:\Users\Maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.csprojResolveAssemblyReference.cache
+C:\Users\Maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.TelaVenda.resources
+C:\Users\Maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.TelaConsulta.resources
+C:\Users\Maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.TelaLogin.resources
+C:\Users\Maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.TelaAlterarSenha.resources
+C:\Users\Maxson\documents\visual studio 2010\Projects\SGC_MDA\mda\obj\x86\Debug\mda.TelaInserirProduto.resources
